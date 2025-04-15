@@ -1,16 +1,35 @@
-## Hi there 👋
+#### 👋 Hey there !! I'm Vishal Vishwakarma
 
-<!--
-**iamvisshu/iamvisshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [@iamvisshu](https://github.com/iamvisshu) aka Vishal Vishwakarma is a Senior Software Developer, with a comprehensive professional IT experience of over 5 years in software development and coding.
+---
+**👨🏻‍💻 About Me**
 
-Here are some ideas to get you started:
+- 🔭 I’m a passionate Java Developer with hands on experience in Java & Javascript.
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I’m having great knack towards Data Structures & Algorithms.
+- 👯 I’m looking forward to work on some exciting projects.
+---
+**🛠  Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,github,gitlab,mysql,idea,eclipse" />
+  </a>
+</p>
+
+<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvisshu&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=iamvisshu&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=iamvisshu />
+
+<div>
+<span> <h2>Coding Profiles </h2>
+<p align = "center">
+<a  href="https://leetcode.com/u/iamvisshu/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+<div>
+<p align = "center">
+  <span> <h2>Let's get connected</h2>
+    <p align = "center">
+<a  href="https://www.linkedin.com/in/iamvisshu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </p>
+  </span>
