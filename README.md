@@ -1,6 +1,6 @@
 #### 👋 Hey there !! I'm Vishal Vishwakarma
 
-- [@iamvisshu](https://github.com/iamvisshu) aka Vishal Vishwakarma is a Senior Software Developer, with a comprehensive professional IT experience of over 6 years in software development and coding.
+- [@iamvisshu](https://github.com/iamvisshu) aka Vishal Vishwakarma is an AI Tech Lead, with a comprehensive professional IT experience of over 6 years in software development and coding.
 ---
 **👨🏻‍💻 About Me**
 
