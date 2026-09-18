@@ -18,7 +18,15 @@
 </p>
 
 <h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
-<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvisshu&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=iamvisshu&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=iamvisshu />
+
+<!-- Alternative 1: Programming languages code percentage Card -->
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvisshu&layout=compact&langs_count=8&theme=algolia"/>
+
+<!-- Alternative 2: Profile Summary Card -->
+<img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamvisshu&theme=algolia" alt="iamvisshu" />
+
+<!-- Alternative 3: GitHub Stats Card -->
+<img height="260em" align="center" src="https://github-stats-alpha.vercel.app/api?username=iamvisshu&cc=222222&tc=FFFFFF&lc=10F0C7" alt="iamvisshu" />
 
 <div>
 <span> <h2>Coding Profiles </h2>
